@@ -39,3 +39,6 @@ __Note:__ Place this line inside your own tags. No tags are displayed with this 
 
  Example:
  `<p class="hits"><? echo $info; ?></p>`
+
+== Notes ==
+ * The stats can be displayed on the simphp.php page, if the option is set in config.
