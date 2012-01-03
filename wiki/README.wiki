@@ -32,5 +32,6 @@ This line should be placed as close to the top of the page as possible.
 The second line of code should be placed where you want the information to be displayed.
 __Note:__ Place this line inside your own tags. No tags are displayed with this line.
 
-{{{<? echo $info; ?>
+{{{
+<? echo $info; ?>
 }}}
