@@ -36,3 +36,6 @@ __Note:__ Place this line inside your own tags. No tags are displayed with this 
 {{{
 <? echo $info; ?>
 }}}
+
+ Example:
+ `<p class="hits"><? echo $info; ?></p>`
