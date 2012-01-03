@@ -19,7 +19,8 @@ There are two simply lines of code that you need to display your views:
 === Line 1 ===
 This line should be placed as close to the top of the page as possible.
 
-{{{<? include("path/to/simphp.php"); ?>
+{{{
+<? include("path/to/simphp.php"); ?>
 }}}
 
  Replace "path/to/simphp.php" with the relative or absolute path to the simphp.php from the webpage.
